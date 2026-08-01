@@ -28,7 +28,8 @@ The repository contains hardware design projects, finite state machines (FSMs), 
 
 ### Finite State Machines
 
-- ✅ 101 Non-Overlapping Sequence Detector (Moore FSM)
+- 101 Non-Overlapping Sequence Detector (Moore FSM)
+- Traffic Signal (Moore FSM)
 
 
 ## Topics Covered
